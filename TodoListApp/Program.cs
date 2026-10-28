@@ -6,7 +6,7 @@ namespace TodoListApp
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Hello World!");
+            Console.WriteLine("Работу выполнили Омельчук Зайцев Сальников");
         }
     }
 }
